@@ -3,9 +3,9 @@
 This bundle adds result callback functions to Data Director's attribute mapping to create an export feed for Facebook. 
 
 ## Installation
-To use this plugin you have to first buy and install [Pimcore Data Director](https://shop.blackbit.de/de/pimcore-modul-bb-import).
+To use this plugin you have to first buy and install [Pimcore Data Director](https://pimcore.com/en/developers/marketplace/blackbit_digital_commerce/pimcore-data-director_e103850).
 
-Pleaase contact us to get access to the bundle's [Bitbucket repository](https://bitbucket.org/blackbitwerbung/pimcore-plugins-data-director-facebook) or you get the plugin code as a zip file. 
+Please contact us to get access to the bundle's [Bitbucket repository](https://bitbucket.org/blackbitwerbung/pimcore-plugins-data-director-facebook) or you get the plugin code as a zip file. 
 When we allow your account to access our repository, please add the repository to the `composer.json` in your Pimcore root folder (see https://getcomposer.org/doc/05-repositories.md#vcs):
 ```json
 "repositories": [
