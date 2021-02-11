@@ -28,7 +28,7 @@ Alternatively if you received the plugin code as zip file, please upload the zip
 
 Then you should be able to execute `composer require blackbit/data-director-facebook` (or `composer update blackbit/data-director-facebook --with-dependencies` for updates if you already have this bundle installed) from CLI.
 
-You can always access the latest version by executing `composer update blackbit/data-director` on CLI.
+You can always access the latest version by executing `composer update blackbit/data-director-facebook` on CLI.
 
 ## Setup export
 
