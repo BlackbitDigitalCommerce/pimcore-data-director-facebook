@@ -35,3 +35,7 @@ You can always access the latest version by executing `composer update blackbit/
 Select `Facebook Commerce Feed` from the list of templates for the `Result Callback function` in data director's attribute mapping.
 
 Then the fields which the Facebook feed supports will appear as *virtual* fields in attribute mapping. To those fields you can map your data object class fields via drag & drop (and additional callback functions if necessary). Afterwards you can access the export either via manual import or by a URL (via Data Director's REST API).
+
+## How to get the plugin
+
+Please write an email to [info@blackbit.de](mailto:info@blackbit.de).
