@@ -40,4 +40,4 @@ Then the fields which the Facebook feed supports will appear as *virtual* fields
 
 ## How to get the plugin
 
-Please write an email to [info@blackbit.de](mailto:info@blackbit.de).
+You can [buy this bundle in the Blackbit shop](https://shop.blackbit.com/pimcore-facebook-product-export-feed/) or write an email to [info@blackbit.de](mailto:info@blackbit.de).
