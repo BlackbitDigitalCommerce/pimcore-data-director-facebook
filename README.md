@@ -2,6 +2,8 @@
 
 This bundle adds result callback functions to Data Director's attribute mapping to create an export feed for Facebook. 
 
+![Map Pimcore data object fields to facebook feed fields](doc/attribute-mapping.png)
+
 ## Installation
 To use this plugin you have to first buy and install [Pimcore Data Director](https://pimcore.com/en/developers/marketplace/blackbit_digital_commerce/pimcore-data-director_e103850).
 
